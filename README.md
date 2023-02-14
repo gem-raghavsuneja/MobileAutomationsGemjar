@@ -1,3 +1,3 @@
 # MobileAutomationsGemjar
 akjcnAKJCn\
-czn
+czn,sa
